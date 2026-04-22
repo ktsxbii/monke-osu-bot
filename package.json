@@ -1,15 +1,22 @@
 {
-  "name": "feat-osu-bot",
+  "name": "monke-osu-bot",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "🐒 A clean, high-performance Discord bot for osu! statistics. Built with discord.js v14 and osu! API v2. 🍌",
+  "main": "src/index.js",
   "scripts": {
     "start": "node src/index.js",
     "test": "jest"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "keywords": [
+    "discord",
+    "bot",
+    "osu",
+    "stats",
+    "bancho",
+    "monke"
+  ],
+  "author": "ktsxbii",
+  "license": "MIT",
   "type": "commonjs",
   "dependencies": {
     "better-sqlite3": "^12.9.0",
