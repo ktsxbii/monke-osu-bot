@@ -2,6 +2,19 @@
 
 A clean, high-performance Discord bot for osu! statistics using **osu! API v2** and **discord.js v14**.
 
+## 🍌 Previews
+
+### 👤 Profile
+![Profile](screenshots/profile.png)
+
+### 📈 Top Plays
+![Top Plays](screenshots/top.png)
+
+### 🕒 Recent Play
+![Recent Play](screenshots/rs.png)
+
+---
+
 ## 🍌 Features
 
 - **`/profile`** - View detailed Bancho statistics with peak rank, country flags, and grade counts.
