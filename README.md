@@ -1,6 +1,10 @@
-# 🐒 Monke osu! Bot
+<div align="center">
+  <img src="screenshots/monkelisten.gif" width="200" alt="Monke Listen">
+  <h1>🐒 Monke osu! Bot</h1>
+  <p>A clean, high-performance Discord bot for osu! statistics using <b>osu! API v2</b> and <b>discord.js v14</b>.</p>
+</div>
 
-A clean, high-performance Discord bot for osu! statistics using **osu! API v2** and **discord.js v14**.
+---
 
 ## 🍌 Features
 
@@ -72,4 +76,6 @@ npm start
 
 ---
 
-*Made with 🍌 for the osu! community.*
+<div align="center">
+  <i>Made with 🍌 for the osu! community.</i>
+</div>
